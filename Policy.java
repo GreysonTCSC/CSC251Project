@@ -11,7 +11,7 @@ class Policy {
    double height;         //Height of the policyholder
    double weight;         //Weight of the policyholder
    
-   //no arguments ya feel me
+   //constructor with no arguments
    public Policy()
    {
       policyNumber = 0;
